@@ -1,0 +1,35 @@
+h1{
+	border: 5px dashed red ;
+}
+ .
+h2{
+	border: 5px dotted red;
+}
+
+
+
+h3{
+	color: blue;
+	background-color: ;
+	border: 5px solid red;
+
+}
+h4{
+	color: red;
+}
+.head4{
+	background-color: black;
+}
+.border{
+     border: 5px solid red;
+}
+#head4{
+	font-size: 50px;
+}
+.box{
+	width:  100px;
+	height: 100px;
+	background-color: rgb(184, 157,157);
+
+
+}
